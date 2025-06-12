@@ -10,11 +10,13 @@
 1. clone repo
 2. navigate to folder containing api2.sln
 3. Run
-    dotnet restore # Download NuGet packages
-    dotnet run     # Build and run project
+
+        dotnet restore # Download NuGet packages
+        dotnet run     # Build and run project
 
 ### VS Code
 1. Clone repo
 2. Open folder in VS Code
 3. Run
-     dotnet run
+
+        dotnet run
